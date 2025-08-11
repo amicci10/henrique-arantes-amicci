@@ -24,5 +24,5 @@ Construir um portfólio sólido com projetos práticos e documentados, que demon
 ---
 
 📫 **Conecte-se comigo**  
-- LinkedIn: https://www.linkedin.com/in/henrique-arantes-amicci/(#)  
-- GitHub: https://github.com/amicci10(#)  
+- LinkedIn: https://www.linkedin.com/in/henrique-arantes-amicci/
+- GitHub: https://github.com/amicci10
