@@ -1,6 +1,6 @@
 
 
-# 👋 Olá Rede, eu sou o Henrique Amicci
+# 👋 Olá Rede, eu sou o Henrique Arantes Amicci
 
 🎓 Estudante do **1º semestre de Análise e Desenvolvimento de Dados** na **Faculdade Cruzeiro do Sul**.  
 💡 Apaixonado por tecnologia, análise de dados e aprendizado contínuo.  
