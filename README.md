@@ -1,8 +1,6 @@
-# henrique-arantes-amicci
 
-Meu repositório pessoal
 
-# 👋 Olá, eu sou o Henrique Amicci
+# 👋 Olá Rede, eu sou o Henrique Amicci
 
 🎓 Estudante do **1º semestre de Análise e Desenvolvimento de Dados** na **Faculdade Cruzeiro do Sul**.  
 💡 Apaixonado por tecnologia, análise de dados e aprendizado contínuo.  
